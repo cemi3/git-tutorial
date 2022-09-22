@@ -5,15 +5,14 @@
 - v git checkout -b branch_name (แตก branch)
 - v git branch branch_name (แตก branch, branch)
 - v git branch -d branch name
-- - git push origin -u --delete branch name (ลบใน git hub)
+- v git push origin -u --delete branch name (ลบใน git hub)
 - v git status
 - v git add . (เพิ่ม file ก่อน commit)
 - v git reset (เอาไฟล์ออกจาก stage)
 - v git commit -m "commit message"
 - v git log --oneline
-- - git pull (get update from remote / download branches)
-- - git push (update to remote * upload branch,commit to github)
-- - git push origin -u branch_name
+- v git pull (get update from remote / download branches)
+- v git push origin -u branch_name
 - v git merge target_branch_name (รวม branch ปัจจุบัน เข้ากับ  branch target)
 
 
